@@ -13,7 +13,7 @@ public class TorrentByMail extends TimerTask{
 	
 	public TorrentByMail() {
 		super();
-		this.runInterval = 300000; //5 minutes
+		this.runInterval = 3000; //5 minutes
 	}
 
 	
