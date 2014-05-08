@@ -2,9 +2,9 @@
 torrentbyemail
 ========================
 
-1 - What is it?
-2 - Dependancies
-3 - How to install
+    1 - What is it?
+    2 - Dependancies
+    3 - How to install
 
 ========================
 
