@@ -13,6 +13,7 @@ torrentbyemail
 torrentbyemail was developed to allow me to do remote torrent download from emails.
 
 It performs the following flow:
+
     - Checks every {n} seconds an Gmail account
     - Verify if there is non-read email
     - If there is new email, then check if is a allowed email
